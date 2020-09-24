@@ -41,6 +41,12 @@
 <br />
 <br />
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+ <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=danaelshrbiny10&show_icons=true&hide_border=true" />
+
+</details>
  
 [twitter]:  https://twitter.com/Danaelshrbiny10?s=09
 [youtube]:  https://www.youtube.com/channel/UCM41bujXFz98HYx8o7fV1CQ
