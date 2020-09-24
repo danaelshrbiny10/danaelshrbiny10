@@ -2,7 +2,7 @@
 
 ## I'm a Python Developer !
 
-- 🔭 I’m currently working on [VS Code Course][website]!
+- 🔭 I’m currently working on VS Code
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
