@@ -1,10 +1,7 @@
-### Hi there I'm Dana 👋
-[twitter]: https://twitter.com/Danaelshrbiny10?s=09
-[youtube]: https://www.youtube.com/channel/UCM41bujXFz98HYx8o7fV1CQ
-[instagram]:https://www.instagram.com/danaelshrbiny10/?hl=en
-[linkedin]: https://www.linkedin.com/in/dana-elshrbiny-b600701b2
+### Hi there I'm Dana [[Facebook Account]](https://www.facebook.com/profile.php?id=100008345534827)👋
 
-## I'm a Python Developer !
+
+## I'm a Python Developer ! 
 
 - 🔭 I’m currently working on VS Code
 - 🌱 I’m currently learning everything 🤣
@@ -34,13 +31,22 @@
 <br />
 <br />
 
+### Connect with me:
 
+[<img align="left" alt="https://www.youtube.com/channel/UCM41bujXFz98HYx8o7fV1CQ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
+[<img align="left" alt="https://twitter.com/Danaelshrbiny10?s=09 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="https://www.linkedin.com/in/dana-elshrbiny-b600701b2 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="https://www.instagram.com/danaelshrbiny10/?hl=en | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
+<br />
 
-
-
-
-
+ 
+[twitter]:  https://twitter.com/Danaelshrbiny10?s=09
+[youtube]:  https://www.youtube.com/channel/UCM41bujXFz98HYx8o7fV1CQ
+[instagram]:https://www.instagram.com/danaelshrbiny10/?hl=en
+[linkedin]: https://www.linkedin.com/in/dana-elshrbiny-b600701b2
+[Facebook]: https://www.facebook.com/profile.php?id=100008345534827
 
 
 
