@@ -37,7 +37,7 @@
 
 
 <p align="center">
-  <img alt="img" src="images/2.gif/>
+  <img alt="img" src="images/2.gif/">
 </p>
 <p align="center">
   Thank's for visiting my Github Profile ❤️
