@@ -37,7 +37,7 @@
 
 
 <p align="center">
-  <img alt="anmie-girl" src="images/anmie-girl.gif" />
+  <img alt="anmie-girl" src="images/2.gif />
 </p>
 <p align="center">
   Thank's for visiting my Github Profile ❤️
