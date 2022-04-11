@@ -37,7 +37,7 @@
 
 
 <p align="center">
-  <img alt="img" width=80% src="images/Dino.gif/">
+  <img alt="img" width=80% src="images/Black_Dino.gif/">
 </p>
 <p align="center">
   Thank's for visiting my Github Profile ❤️
