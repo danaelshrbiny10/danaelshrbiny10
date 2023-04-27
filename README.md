@@ -18,7 +18,7 @@
   
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=danaelshrbiny10&theme=vision_friendly_dark" />
   
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danaelshrbiny10&theme=vision_friendly_dark&utcOffset=8" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danaelshrbiny10&theme=vision_friendly_dark&utcOffset= +2" />
 
 </p>
 
