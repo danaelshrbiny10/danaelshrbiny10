@@ -6,12 +6,11 @@
 
 <!-- Intro  -->
 <h3 align="center">
-        <samp> Hey There!, I am
-                <b><a target="_blank" href="https://danaelshrbiny10.github.io/">dana</a></b>
-                <br>
-                <h5>A Backend web developer and Data scientist</h5>
-        </samp>
+  <samp>Hey There!, I am
+    <b><a target="_blank" href="https://danaelshrbiny10.github.io/">dana</a></b>
+  </samp>
 </h3>
+<h5 align="center">A Backend web developer and Data scientist</h5>
 
 <p align="center">
  <a href="https://danaelshrbiny10.github.io/" target="blank">
