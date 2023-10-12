@@ -36,8 +36,10 @@
 <p align="center">
 
 [![Automated-Price-Comparison](https://github-readme-stats.vercel.app/api/pin/?username=danaelshrbiny10&repo=Automated-Price-Comparison&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/danaelshrbiny10/Automated-Price-Comparison)
-[![Automate-WhatsApp-Messages](https://github-readme-stats.vercel.app/api/pin/?username=danaelshrbiny10&repo=Automate-WhatsApp-Messages&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/danaelshrbiny10/Automate-WhatsApp-Messages)
+[![ecommerce](https://github-readme-stats.vercel.app/api/pin/?username=danaelshrbiny10&repo=ecommerce&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/danaelshrbiny10/AI-Finger-Counter](https://github.com/danaelshrbiny10/ecommerce))
+[![Web-Assistant](https://github-readme-stats.vercel.app/api/pin/?username=danaelshrbiny10&repo=Web-Assistant&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)]([https://github.com/danaelshrbiny10/Automate-WhatsApp-Messages](https://github.com/danaelshrbiny10/Web-Assistant))
 [![AI-Finger-Counter](https://github-readme-stats.vercel.app/api/pin/?username=danaelshrbiny10&repo=AI-Finger-Counter&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/danaelshrbiny10/AI-Finger-Counter)
+
 
 </p>
 
