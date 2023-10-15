@@ -13,7 +13,7 @@
 <h5 align="center">A Backend web developer and Data scientist</h5>
 
 <p align="center">
- <a href="https://danaelshrbiny10.github.io/" target="blank">
+ <a href="http://danaelshrbiny.com/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=Website&logoColor=white" alt="danaelshrbiny10" />
  </a>
  <a href="https://www.linkedin.com/in/danaelshrbiny/" target="_blank">
