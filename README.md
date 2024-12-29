@@ -50,9 +50,8 @@
 </p>
 
 <!-- Stats & Languages Section -->
-## GitHub Stats & Languages 📊
+## GitHub Languages 📊
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danaelshrbiny10&show_icons=true&count_private=true&hide=prs&bg_color=0D1117&title_color=F8F8FF&text_color=FFFFFF&icon_color=FFB6C1&hide_border=true&border_radius=15&theme=vue" alt="GitHub Statistics"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danaelshrbiny10&layout=compact&langs_count=6&hide=html,css&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Top Languages"/>
 </p>
 
