@@ -64,12 +64,25 @@
 </p>
 
 <!-- Contact Information Section -->
-## Contact Information 📬
+## 📬 Contact Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/danaelshrbiny/" target="_blank">
-    <img alt="Seeking Mentorship" title="Seeking Mentorship Opportunities" src="https://img.shields.io/badge/danaelshrbiny-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
   <a href="mailto:danaelshrbiny55@gmail.com" target="_blank">
-    <img alt="Email Me" title="Send an Email" src="https://img.shields.io/badge/Email-danaelshrbiny55@gmail.com-orange?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Email-danaelshrbiny55@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/danaelshrbiny/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-danaelshrbiny-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a 
+
+
+<!-- Sponsor Section -->
+<h4 align="center">
+  <samp>If you like my work, consider supporting me:</samp>
+</h4>
+
+<p align="center">
+  <a href="https://github.com/sponsors/danaelshrbiny10" target="_blank">
+    <img alt="Sponsor danaelshrbiny10" title="Sponsor Me" src="https://img.shields.io/badge/Sponsor%20Me-780606?style=for-the-badge&logo=github-sponsors&logoColor=white" />
   </a>
 </p>
